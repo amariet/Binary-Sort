@@ -1,7 +1,5 @@
 /**
- * StudentList
- * 
- * @Kara Herson 
+ * StudentLis
  * @11/21/16
  */
 import java.util.ArrayList;
